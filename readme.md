@@ -1,4 +1,4 @@
-# QPage Mobile Coding Challenge
+# Mobile Coding Challenge
 
 Please read the following docs:
 - [Introduction to the challenge](src/docs/challenge.md)
