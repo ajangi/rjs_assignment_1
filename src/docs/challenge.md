@@ -1,4 +1,4 @@
-# QPage React Native Coding Challenge
+# React JS Coding Challenge
 
 Dear Candidate,
 
